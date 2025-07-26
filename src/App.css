@@ -1,9 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;900&family=Roboto:wght@400;700&display=swap');
-
-body, html, #root {
-  font-family: 'Inter', 'Roboto', sans-serif;
-}
-
 #root {
   max-width: 1280px;
   margin: 0 auto;
